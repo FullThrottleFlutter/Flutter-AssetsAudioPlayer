@@ -6,3 +6,7 @@
 pubspec.lock
 
 build/
+
+example/.flutter-plugins-dependencies
+
+android/.idea/
